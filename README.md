@@ -36,5 +36,5 @@ Dự án này nhằm phân tích dữ liệu liên quan đến đại dịch Cov
 
 ## Kết luận
 
-Dự án này cung cấp cái nhìn sâu sắc về dữ liệu Covid-19 thông qua các kỹ thuật phân tích và trực quan hóa. Nó cũng là một bước đệm để học viên ứng dụng học máy trong việc dự đoán và phân tích dữ liệu y tế.
+Dự án này cung cấp cái nhìn sâu sắc về dữ liệu Covid-19 thông qua các kỹ thuật phân tích và trực quan hóa. Nó cũng là một bước đệm để bạn ứng dụng học máy trong việc dự đoán và phân tích dữ liệu y tế.
 
